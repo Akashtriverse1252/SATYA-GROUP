@@ -169,26 +169,63 @@ export const Home = () => {
                 <div className="homeslider slide02">
                   <div className="homcolft">
                     <div className="slidecont">
-                      <h2 className="slidertitle">
+                      <h2
+                        className="slidertitle"
+                        data-aos="flip-down"
+                        data-aos-offset="200"
+                        data-aos-duration="600"
+                        data-aos-once="true"
+                        data-aos-delay="1100"
+                        data-aos-easing="ease-in-sine"
+                      >
                         Your Apartment <br /> Our Service
                       </h2>
-                      <p>
+                      <p
+                        data-aos="fade-up"
+                        data-aos-offset="200"
+                        data-aos-duration="600"
+                        data-aos-once="true"
+                        data-aos-delay="1100"
+                      >
                         Lavish serviced apartments located at Element One, a
                         vibrant blend of high-street retail and private business
                         suites located in Sector 47 & 49 in the heart of
                         Gurugram
                       </p>
-                      <div className="webclick">
+                      <div
+                        className="webclick"
+                        data-aos="fade-up"
+                        data-aos-offset="200"
+                        data-aos-duration="600"
+                        data-aos-once="true"
+                        data-aos-delay="1100"
+                      >
                         <Link to="/project/serviced-apartments-at-element-one">
                           <span>More Details</span>
                         </Link>
                       </div>
-                      <div className="projectlogo">
+                      <div
+                        className="projectlogo"
+                        data-aos="fade-in"
+                        data-aos-offset="200"
+                        data-aos-duration="600"
+                        data-aos-once="true"
+                        data-aos-delay="1500"
+                        data-aos-easing="ease-in-sine"
+                      >
                         <img src={Elementone} />
                       </div>
                     </div>{" "}
                   </div>
-                  <div className="homcolrt">
+                  <div
+                    className="homcolrt"
+                    data-aos="fade-left"
+                    data-aos-offset="200"
+                    data-aos-duration="600"
+                    data-aos-once="true"
+                    data-aos-delay="600"
+                    data-aos-easing="ease-in-sine"
+                  >
                     <img src={Banner02} />
                     {/* <span class="img_type">artistic Image</span> */}
                   </div>
@@ -253,12 +290,12 @@ export const Home = () => {
 
                   <div
                     className="homcolrt"
-                    data-aos="fade-left"
-                    data-aos-offset="200"
-                    data-aos-duration="600"
-                    data-aos-once="true"
-                    data-aos-delay="600"
-                    data-aos-easing="ease-in-sine"
+                    // data-aos="fade-left"
+                    // data-aos-offset="200"
+                    // data-aos-duration="600"
+                    // data-aos-once="true"
+                    // data-aos-delay="600"
+                    // data-aos-easing="ease-in-sine"
                   >
                     <img src={Banner03} />
                     <span class="img_type">artistic Image</span>

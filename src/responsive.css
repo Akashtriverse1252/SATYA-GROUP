@@ -1,0 +1,3050 @@
+@media (max-width:1770px) {
+    .haboutimg img {
+        width: 100%;
+    }
+
+    .haboutrow {
+        margin-bottom: 50px;
+    }
+
+
+    .categorycent {
+        top: 40px;
+        left: 20px;
+        right: 20px;
+        padding: 10px;
+    }
+
+    .categorycont h2 {
+        font-size: 28px;
+    }
+
+
+    .ethoscontrow {
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .ourthoscont h2 {
+        font-size: 24px;
+        letter-spacing: 2px;
+    }
+
+    body {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .ourethosrow {
+        width: 85%;
+    }
+
+    .journeryslider {
+        margin: 0;
+        width: 100%;
+    }
+
+    .journeycont {
+        width: 46%;
+    }
+
+    .medleft ul li a {
+        font-size: 13px;
+    }
+
+    .medleft ul {
+        padding: 15px;
+    }
+
+    .medleft ul li {
+        padding-bottom: 7px;
+        margin-bottom: 7px;
+    }
+
+    .medleft {
+        width: 22%;
+    }
+
+    .banner::after {
+        z-index: -1;
+    }
+
+    .projectbanner img {
+        width: 100%;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 32px;
+        letter-spacing: 1px;
+        line-height: 40px;
+    }
+
+    .slidertitle {
+        font-size: 50px;
+    }
+
+    .projectlogo {
+        margin-top: 15vh;
+    }
+
+    .toplinks li {
+        padding: 0 30px;
+    }
+
+    .toplinks li a {
+        font-size: 13px;
+    }
+
+    .toplinks li:nth-child(4) {
+        width: 160px;
+        height: 35px;
+    }
+
+    .toplinks li:nth-child(4) span {
+        font-size: 12px;
+    }
+
+    .homeslider.slide01 .slidertitle {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .homeslider.slide02 .slidertitle {
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .homeslider.slide03 .slidertitle {
+        font-size: 46px;
+        line-height: 50px;
+    }
+
+    .slidecont p {
+        width: 70%;
+    }
+
+    .jslider:before,
+    .banner:before {
+        width: 100px;
+        height: 130px;
+        background-size: cover;
+    }
+
+    .cross {
+        width: 120px;
+        height: 120px;
+        line-height: 120px;
+        font-size: 50px;
+    }
+}
+
+@media (max-width:1600px) {
+    .logo a {
+        width: 150px;
+    }
+
+    .slidertitle {
+        font-size: 46px;
+        line-height: 42px;
+    }
+
+    .slidertitle span:nth-child(1):after {
+        width: 2px;
+    }
+
+    header {
+        padding: 10px 0;
+    }
+
+    .navbar {
+        padding: 0;
+    }
+
+    .copyrightrow {
+        padding: 15px 0;
+    }
+
+    .bannerimg img {
+        width: 100%;
+    }
+
+    .delivering h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .delivering:before {
+        width: 320px;
+        height: 320px;
+    }
+
+    .countnum {
+        font-size: 60px;
+    }
+
+    .ourthoscont h2 {
+        margin-bottom: 0;
+    }
+
+    .journeycont h3 span {
+        font-size: 19px;
+        line-height: 22px;
+    }
+
+    .journeycont h3 {
+        font-size: 46px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+
+    .journeryslider .slick-dots {
+        padding-top: 0;
+    }
+
+    .inprojects .react-tabs__tab-list li {
+        line-height: 50px;
+        font-size: 16px;
+        margin: 0 10px;
+        width: 250px;
+    }
+
+    .pprojectbox p {
+        margin-top: 10px;
+        font-size: 13px;
+        letter-spacing: 0.3px;
+        line-height: 18px;
+    }
+
+    .journey .slick-dots li button:before {
+        font-size: 17px;
+    }
+
+    .medright .react-tabs ul {
+        margin-bottom: 30px;
+    }
+
+    .medright .react-tabs ul li {
+        margin-right: 12px;
+        padding-right: 12px;
+    }
+
+    .ftr p,
+    .ftr a {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .slideimg img {
+        width: 100%;
+    }
+
+    .homeslider.slide03 .slideimg img {
+        width: 320px;
+    }
+}
+
+@media (max-width:1500px) {
+    .logo a {
+        width: 135px;
+    }
+
+    .toplinks li {
+        padding: 0 25px;
+    }
+
+    .toplinks li a {
+        font-size: 12px;
+        letter-spacing: 1.2px;
+    }
+
+    header:after {
+        width: 450px;
+        height: 80px;
+    }
+
+    .hemburgur span {
+        width: 4px;
+        height: 4px;
+    }
+
+    .slick-slider button.slick-arrow.slick-prev {
+        left: -90px;
+    }
+
+    .slick-slider button.slick-arrow.slick-next {
+        right: -90px;
+    }
+
+    .homeslider.slide01 .slidertitle {
+        font-size: 46px;
+    }
+
+    .homcolft {
+        margin-left: 8%;
+    }
+
+    .slidephara {
+        margin-top: 12px;
+    }
+
+    .projectlogo img {
+        width: 220px;
+    }
+
+    .slick-dots li button {
+        width: 7px;
+        height: 7px;
+    }
+
+    .slick-dots li {
+        margin-right: 8px;
+    }
+
+    .slidertitle {
+        font-size: 44px;
+        line-height: 40px;
+    }
+
+    .hprojects:after,
+    .jslider:before,
+    .banner:before,
+    .journey::before,
+    .ourethosrow::after,
+    .projectchart::before,
+    .haboutus::before,
+    .categoryrow::before {
+        width: 90px;
+        height: 130px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        z-index: -1;
+    }
+
+    .journey::after,
+    .ourethos::before,
+    .projectchart::after,
+    .haboutus::after,
+    .overview::after,
+    .banner::after,
+    .whtwedo::before,
+    .whtwedo::after,
+    .aboutus::before {
+        width: 50px;
+        height: 8px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .hprojects:before {
+        width: 100px;
+        height: 100px;
+        background-size: contain;
+    }
+
+    .delivering h1 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    header {
+        padding: 25px 0;
+    }
+
+    .projectlogo {
+        margin-top: 14vh;
+    }
+
+    .slidecont p {
+        width: 75%;
+    }
+
+    .homeslider.slide02 .slidertitle span:nth-child(1):after {
+        right: 6%;
+    }
+
+    .title h2 {
+        font-size: 17px;
+        letter-spacing: 5px;
+    }
+
+
+
+    .toplinks li:nth-child(4) {
+        width: 140px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .enquirecontainer h2 {
+        font-size: 24px;
+    }
+
+    body {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .button-2 {
+        padding: 0 28px;
+        line-height: 46px;
+    }
+
+    .haboutcont h1 {
+        font-size: 34px;
+        line-height: 38px;
+        margin-bottom: 15px;
+    }
+
+    .numbers {
+        padding-top: 240px;
+        padding-bottom: 150px;
+    }
+
+    .labelcont {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .countnum {
+        font-size: 50px;
+    }
+
+    .count {
+        width: 100%;
+        margin: 0;
+    }
+
+    .categorycont h2 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .categorycont p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .categorycont span {
+        padding: 0 22px;
+        line-height: 42px;
+    }
+
+    .footer {
+        padding: 60px 0;
+    }
+
+    .ftr {
+        width: 20%;
+    }
+
+    .footer {
+        padding: 60px 0;
+    }
+
+    .ftr {
+        width: 20%;
+    }
+
+    .subtitle h3 {
+        font-size: 16px;
+        padding: 0 40px;
+        line-height: 50px;
+    }
+
+    .projectchart {
+        width: 82%;
+    }
+
+    .sitemapbox h3 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .ftr h2 {
+        font-size: 19px;
+        line-height: 40px;
+    }
+
+    .sitemapbox li,
+    .sitemapbox li a {
+        font-size: 13px;
+        line-height: 26px;
+    }
+
+    .copyrightrow p {
+        font-size: 12px;
+    }
+
+    .fixed .logo a {
+        width: 120px;
+    }
+
+    .fixed .logo a {
+        width: 120px;
+    }
+
+    .ourethosrow {
+        width: 92%;
+    }
+
+    .ethoscontrow:before,
+    .ethoscontrow:last-child ul li::before {
+        width: 30px;
+    }
+
+    .journeycont h3 span {
+        font-size: 18px;
+    }
+
+    .journeycont p {
+        margin-bottom: 5px;
+    }
+
+    .journey .slick-dots li {
+        margin-right: 20px;
+    }
+
+    .journey .slick-dots li button:before {
+        font-size: 16px;
+    }
+
+    .journeycont h3 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .difference ol li p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .difference ol li span {
+        font-size: 100px;
+        line-height: 80px;
+    }
+
+    .pprojectrow {
+        width: 100%;
+        margin: 0;
+    }
+
+    .projectinfo ul li {
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .projectinfo ul li p {
+        font-size: 13px;
+    }
+
+
+    .enquirecontainer button.btnfill.button-2 {
+        height: 50px;
+    }
+
+    .enquireform {
+        padding: 50px;
+    }
+
+    .enquireform h2 {
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .title h2 {
+        line-height: 40px;
+        font-size: 15px;
+    }
+
+    .amenitiesstn0 ul li span {
+        width: 120px;
+        height: 120px;
+        line-height: 120px;
+    }
+
+    .amenitiesstn0 ul li p {
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+
+    .sitemap {
+        padding: 5px 0;
+    }
+
+    .highlightbtn ul li {
+        font-size: 13px;
+        letter-spacing: 1.5px;
+        width: 28%;
+        margin-bottom: 12px;
+    }
+
+    .togmenu ul li a {
+        font-size: 28px;
+        line-height: 50px;
+    }
+
+    .medleft ul li a {
+        font-size: 12px;
+        letter-spacing: 0.5px;
+    }
+
+    .cross {
+        width: 100px;
+        height: 100px;
+        font-size: 50px;
+    }
+
+    .haboutrow {
+        margin-top: 30px;
+    }
+
+    .delivering:before {
+        width: 250px;
+        height: 250px;
+    }
+
+    .numberbanner:before {
+        width: 450px;
+        height: 450px;
+        background-size: cover;
+    }
+
+    .constructionrow .react-tabs ul.d-flex.justify-content-between,
+    .constructionrow .year .years {
+        padding: 10px;
+    }
+
+    .projectbox h3 {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 10px;
+    }
+
+    .breadcumtab ul li {
+        font-size: 11px;
+        letter-spacing: 0.3px;
+    }
+
+    .proenquire p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .enquireform ul li {
+        margin: 5px 0;
+    }
+
+    .download {
+        margin-bottom: 50px;
+    }
+
+    .overviewrow {
+        width: 90%;
+    }
+
+    .form li {
+        margin-top: 0;
+    }
+
+    .form li input[type="tel"],
+    .form li input[type="email"],
+    .form li input[type="text"] {
+        height: 40px;
+        font-size: 13px;
+        line-height: 40px;
+    }
+
+    .nricorner h3 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+
+    .medright .Gallerybox .lg-react-element a img {
+        height: 200px;
+    }
+
+    .lightcont h4,
+    .eventsbox h5 {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+
+    .lightcont h5 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width:1430px) {
+    .hprojects {
+        margin-top: 50px;
+    }
+
+    .slick-dots {
+        position: relative;
+        bottom: 30px;
+    }
+
+    .slidertitle {
+        font-size: 42px;
+        line-height: 40px;
+    }
+
+    .hprojects .title[data-aos^=zoom][data-aos^=zoom],
+    .hprojects .title[data-aos^=zoom][data-aos^=zoom] {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    .enquireform {
+        padding: 40px;
+    }
+}
+
+@media (max-width:1380px) {
+    .logo a {
+        width: 120px;
+    }
+
+    .homcolrt {
+        width: 52%;
+    }
+
+    ul.d-flex.justify-content-between li {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .constructionrow .years ul li a {
+        font-size: 13px;
+    }
+
+    .constructionrow .react-tabs ul.d-flex.justify-content-between,
+    .constructionrow .year .years {
+        padding: 5px;
+    }
+
+    .webclick span {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .amenitiesstn0 ul li p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+
+    .toplinks li:nth-child(4) span {
+        font-size: 10px;
+    }
+
+    header {
+        padding: 10px 0;
+        min-height: 90px;
+    }
+
+    .toplinks li:nth-child(4) {
+        height: 30px;
+        font-size: 11px;
+        width: 130px;
+    }
+
+    .hemburgur span {
+        width: 4px;
+        height: 4px;
+    }
+
+    .hemburgur span:nth-child(2) {
+        top: 10px;
+    }
+
+    .hemburgur span:nth-child(3) {
+        top: 20px;
+    }
+
+    .slidertitle {
+        font-size: 40px;
+        line-height: 30px;
+        margin-bottom: 0px;
+    }
+
+    .slidertitle span:nth-child(1):after {
+        width: 2px;
+        height: 150px;
+    }
+
+    .fixed .logo a {
+        width: 100px;
+    }
+
+    .slick-dots li button {
+        width: 7px;
+        height: 7px;
+    }
+
+    .slick-dots li {
+        margin-right: 5px;
+    }
+
+    .toplinks li:nth-child(4) {
+        font-size: 10px;
+    }
+
+    .title h2 {
+        font-size: 14px;
+        line-height: 30px;
+        letter-spacing: 4px;
+    }
+
+    .subtitle h3 {
+        font-size: 14px;
+        line-height: 40px;
+        padding: 0 30px;
+    }
+
+    .subtitle,
+    .title {
+        margin-bottom: 35px;
+    }
+
+    .projectbox h3 {
+        padding: 10px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .haboutcont h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    body {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .button-2 {
+        padding: 0 24px;
+        line-height: 40px;
+        font-size: 11px;
+    }
+
+    .countnum {
+        font-size: 42px;
+    }
+
+    .labelcont {
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 0.5px;
+    }
+
+    .categorycont h2 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .categorycont span {
+        padding: 0 20px;
+        line-height: 36px;
+        font-size: 10px;
+    }
+
+    .categorycent {
+        top: 20px;
+        left: 10px;
+        right: 10px;
+    }
+
+    .form li input[type="tel"],
+    .form li input[type="email"],
+    .form li input[type="text"] {
+        font-size: 12px;
+        height: 35px;
+        letter-spacing: 0.5px;
+        line-height: 35px;
+    }
+
+    .ftr h2 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .ftr p,
+    .ftr a {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .accordion .accordion-item .title {
+        font-size: 12px;
+    }
+
+    /* .accordion .accordion-item .title:after, .accordion .accordion-item .sitemapbox .accordion-item button.title::after {
+        font-size: 30px;
+    } */
+
+    .copyrightrow p a {
+        padding: 0 5px;
+    }
+
+
+    .numbers {
+        margin: 0;
+    }
+
+    .numberbanner:before {
+        width: 400px;
+        height: 400px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+
+    .slick-slider button.slick-arrow.slick-prev,
+    .slick-slider button.slick-arrow.slick-next {
+        width: 50px;
+        height: 50px;
+    }
+
+    .slick-slider button.slick-arrow.slick-next {
+        right: -50px;
+    }
+
+    .slick-slider button.slick-arrow.slick-prev {
+        left: -50px;
+    }
+
+    .numbers:before {
+        border-right: 1360px solid #019280;
+    }
+
+    input[type="submit"] {
+        padding: 0 40px;
+    }
+
+    .enquirecontainer h2 {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .enquirefrm ul li input[type=email],
+    .enquirefrm ul li input[type=tel],
+    .enquirefrm ul li input[type=text] {
+        height: 40px;
+        text-indent: 10px;
+    }
+
+    .enquirecontainer button.btnfill.button-2 {
+        width: 15%;
+        height: 40px;
+    }
+
+    .enquirecross {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .delivering h1 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    p {
+        margin-bottom: 0.5rem;
+    }
+
+    .delivering:before {
+        width: 220px;
+        height: 220px;
+    }
+
+    .ourethos {
+        margin-top: 50px;
+    }
+
+    .journey .slick-dots li button:before {
+        font-size: 14px;
+    }
+
+    .difference ol li span {
+        font-size: 80px;
+        line-height: 60px;
+    }
+
+    .difference ol li p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .differencesatyarow {
+        height: 400px;
+    }
+
+    .difference {
+        padding-top: 100px;
+    }
+
+    .ourthoscont h2 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        left: -70px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next {
+        right: -70px;
+    }
+
+    .journeycont h3 span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .journeycont h3 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .enquireform h2 {
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
+
+
+    .enquireform {
+        padding: 0 40px;
+    }
+
+    .proenquire p {
+        padding: 10px 20px;
+        font-size: 13px;
+        border-width: 1px;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 24px;
+        letter-spacing: 0.5px;
+        line-height: 32px;
+    }
+
+
+
+    .pprojecthighlights ul strong {
+        letter-spacing: 2px;
+    }
+
+    .pprojecthighlights ul {
+        border-width: 1px;
+    }
+
+    .pprojecthighlights ul li {
+        border-width: 1px;
+    }
+
+    .download {
+        margin-bottom: 50px;
+    }
+
+    .enquireform h2 {
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
+
+
+
+    .proenquire p {
+        padding: 10px 20px;
+        font-size: 13px;
+        border-width: 1px;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 24px;
+        letter-spacing: 0.5px;
+        line-height: 32px;
+    }
+
+    .pprojecthighlights ul {
+        padding: 10px;
+    }
+
+    .pprojecthighlights ul strong {
+        letter-spacing: 2px;
+    }
+
+    .pprojecthighlights ul {
+        border-width: 1px;
+    }
+
+    .pprojecthighlights ul li {
+        border-width: 1px;
+    }
+
+    .download {
+        margin-bottom: 50px;
+    }
+
+    .amenitiesstn0 ul li span {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+    }
+
+    .locationimg img {
+        width: 100%;
+    }
+
+    .locationrow ul li {
+        padding: 10px 0;
+    }
+
+    .togmenu ul li a {
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    .webclick span:after,
+    .togmenu ul li a:after {
+        height: 1px;
+        width: 20px;
+    }
+
+    .sitemapbox h3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .sitemapbox h3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .nricorner h3 {
+        margin: 10px 0 0 0;
+        font-size: 19px;
+        line-height: 30px;
+        letter-spacing: 0.5px;
+    }
+
+    .nriaccordian .accordion .accordion-item .title {
+        font-size: 15px;
+    }
+
+    .lightcont h4 {
+        font-size: 14px;
+    }
+
+    .lightcont h5 {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+
+    .lightcont h4 {
+        font-size: 14px;
+    }
+
+    .lightcont h5 {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+
+    .eventsbox a img {
+        height: 200px;
+    }
+
+    .eventsbox h5 {
+        font-size: 14px;
+    }
+
+    .title h2 {
+        margin: 0;
+    }
+
+    .hprojects {
+        margin: 50px 0;
+    }
+
+    .breadcumtab ul li {
+        font-size: 10px;
+        padding-right: 20px;
+    }
+
+    .breadcumtab ul li a:after {
+        right: -14px;
+    }
+
+    .homeslider.slide01 .slidertitle {
+        font-size: 40px;
+        line-height: 44px;
+    }
+
+    .slidephara ul li {
+        font-size: 11px;
+        letter-spacing: 0.5px;
+    }
+
+    .homeslider.slide02 .slidertitle {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .homeslider.slide03 .slidertitle {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .slidecont p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .projectlogo img {
+        width: 180px;
+    }
+
+    .pprojectbox p {
+        font-size: 12px;
+        letter-spacing: 0.3px;
+        line-height: 16px;
+    }
+
+    .projectinfo ul li {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .projectinfo ul li p {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .proenquire img {
+        width: 70%;
+        margin-bottom: 10px;
+    }
+
+    .clintellestn ul li {
+        width: 21%;
+    }
+}
+
+@media (max-width:1280px) {
+
+
+    .nriaccordian .accordion .accordion-item .title:after {
+        font-size: 30px;
+    }
+
+    .homeslider.slide03 .slideimg img {
+        width: 180px;
+    }
+
+    .projectlogo {
+        margin-top: 5vh;
+    }
+
+    .projectinfo ul li strong,
+    .projectinfo ul li p {
+        margin: 0;
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .projectinfo ul li strong,
+    .projectinfo ul li p {
+        margin: 0;
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .pprojectbox p {
+        font-size: 13px;
+        line-height: 14px;
+    }
+
+    .pprojectbox {
+        margin-bottom: 25px;
+    }
+
+    .overviewrow,
+    .locationrow {
+        width: 100%;
+    }
+
+    .highlightbtn ul li {
+        width: 30%;
+        padding: 5px 0;
+    }
+
+    .locationbanner .Gallerybox .lg-react-element a {
+        margin: 0;
+    }
+
+    .locationbanner .Gallerybox {
+        margin-top: 25px;
+    }
+
+    .nricorner h3 {
+        font-size: 18px;
+    }
+
+    .years ul li {
+        margin-right: 15px;
+    }
+
+    .web-container {
+        width: 80%;
+    }
+}
+
+@media (max-width:1030px) {
+    header:after {
+        width: 350px;
+    }
+
+    .homeslider.slide01 .slidertitle {
+        font-size: 30px;
+        line-height: 36px;
+        letter-spacing: 2px;
+    }
+
+    .slidephara ul li {
+        font-size: 10px;
+        letter-spacing: 0.3px;
+        padding-right: 5px;
+        margin-right: 5px;
+    }
+
+    .hprojects:before {
+        width: 70px;
+        height: 70px;
+    }
+
+    .homeslider.slide02 .slidertitle {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .homeslider.slide03 .slidertitle {
+        font-size: 34px;
+        line-height: 40px;
+    }
+
+    .haboutrow {
+        margin: 0;
+    }
+
+    .labelcont {
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .enquireform h2 {
+        font-size: 10px;
+        letter-spacing: 0.5px;
+    }
+
+    .enquireform {
+        padding: 0 25px;
+    }
+
+    .proenquire p {
+        font-size: 12px;
+        padding: 5px;
+    }
+
+    .amenities,
+    .download,
+    .location,
+    .gallery,
+    .projects,
+    .racallrow,
+    .media,
+    .event_detail {
+        margin: 25px 0;
+    }
+
+    .slidecont p {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .slidertitle {
+        font-size: 36px;
+        line-height: 26px;
+    }
+
+    .numbers {
+        padding-bottom: 100px;
+        padding-top: 200px;
+    }
+
+    .title h2 {
+        font-size: 13px;
+        letter-spacing: 3px;
+    }
+
+    .delivering h1 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .ethoscontrow {
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+
+    .ourethosrow {
+        width: 100%;
+    }
+
+    .homcolft {
+        width: 40%;
+        margin-left: 5%;
+    }
+}
+
+@media (max-width:980px) {
+
+    .togmenu,
+    .searchinput {
+        width: 100%;
+    }
+
+    .logo a {
+        width: 100px;
+    }
+
+    header {
+        min-height: 90px;
+    }
+
+
+    .proenquire img {
+        width: 130px;
+        margin-bottom: 10px;
+    }
+
+
+    .enquireform h2 {
+        font-size: 11px;
+    }
+
+    .form li input[type="tel"],
+    .form li input[type="email"],
+    .form li input[type="text"] {
+        height: 35px;
+        font-size: 11px;
+    }
+
+    .proenquire p {
+        margin-top: 15px;
+        font-size: 10px;
+        padding: 5px 20px;
+    }
+
+
+    .amenitiesstn0 ul {
+        margin: 50px 0;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 0;
+    }
+
+    .amenitiesstn0 ul li {
+        width: 24%;
+        margin-bottom: 40px;
+    }
+
+    .download,
+    .location,
+    .gallery,
+    .projects,
+    .racallrow,
+    .media,
+    .event_detail {
+        margin: 25px 0;
+    }
+
+    .overview,
+    .amenities {
+        margin: 25px 0;
+    }
+
+    .pprojecthighlights ul {
+        background: #fff;
+        position: relative;
+        z-index: 1;
+    }
+
+    .medleft ul li a {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .slidertitle {
+        font-size: 30px;
+        line-height: 20px;
+    }
+
+    .journeryslider .slick-dots {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .differencesatya {
+        margin: 25px 0;
+    }
+
+    .journeyrow.d-flex.justify-content-between {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .journeyimg,
+    .delivering {
+        width: 100%;
+    }
+
+    .delivering {
+        margin: 0;
+    }
+
+    .journeycont {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .nriaccordian .accordion .accordion-item .title {
+        padding: 5px 50px 5px 0px;
+    }
+
+    .homeslider,
+    .whtwedo::after {
+        position: relative;
+        left: 1px;
+    }
+
+    .web-container {
+        width: 90%;
+    }
+}
+
+@media (max-width:800px) {
+    .clintellestn ul li {
+        width: 25%;
+    }
+
+    .form_thankyou_data {
+        padding: 40px 60px;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 35px;
+
+    }
+
+    .slidertitle {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .toplinks li {
+        padding: 0 12px;
+    }
+
+    .homeslider.slide01 .slidertitle {
+        font-size: 22px;
+        line-height: 28px;
+        letter-spacing: 1px;
+    }
+
+    .our-brands {
+        margin: 35px 0;
+    }
+    .our_brand_scn{
+   margin-top: 25px;
+    }
+
+    .haboutimg img {
+        width: 80%;
+        margin: 0px auto 20px;
+        display: inherit;
+    }
+
+    .homeslider.slide02 .slidertitle {
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    .homeslider.slide03 .slidertitle {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .slidephara {
+        margin-top: 5px;
+    }
+
+    .nricorner {
+        padding: 25px 0;
+    }
+
+    .slidephara ul {
+        margin: 5px 0;
+        flex-wrap: wrap;
+    }
+
+    .slidephara ul li {
+        width: 40%;
+    }
+
+    .toplinks li:nth-child(4) {
+        width: 100px;
+        letter-spacing: 0.5px;
+        height: auto;
+        line-height: 20px;
+    }
+
+    .toplinks li:nth-child(4) span {
+        font-size: 9px;
+    }
+
+    .projectlogo {
+        margin-top: 3vh;
+    }
+
+    .container {
+        width: 94%;
+        max-width: 94%;
+    }
+
+    .slick-slider button.slick-arrow.slick-prev {
+        left: -30px;
+    }
+
+    .slick-slider button.slick-arrow.slick-next {
+        right: -30px;
+    }
+
+    .numberbanner:before {
+        width: 250px;
+        height: 250px;
+    }
+
+    .numbers:before {
+        border-right: 760px solid #019280;
+        border-top: 100px solid transparent;
+    }
+
+    .homcolft {
+        width: 45%;
+        margin: 0;
+        padding-left: 20px;
+        position: relative;
+    }
+
+    .haboutrow {
+        margin: 0;
+        flex-wrap: wrap;
+    }
+
+    .haboutimg {
+        width: 100%;
+    }
+
+    .haboutcont {
+        width: 100%;
+        text-align: center;
+    }
+
+    .haboutus {
+        margin-bottom: 50px;
+    }
+
+    .haboutus::after,
+    .overview::after,
+    .banner::after {
+        z-index: -1;
+    }
+
+    .web-container {
+        width: 100%;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next {
+        right: -50px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        left: -50px;
+    }
+
+    .journeycont h3 span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .journey {
+        margin: 25px 0;
+    }
+
+    .journeyrow.d-flex.justify-content-between {
+        flex-wrap: wrap;
+        width: 80%;
+        margin: 0 10%;
+        text-align: center;
+    }
+
+    .journeyimg,
+    .journeycont {
+        width: 100%;
+    }
+
+    .journeycont h3 {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .journeyimg,
+    .banner {
+        margin-bottom: 20px;
+    }
+
+    .delivering {
+        width: 100%;
+        margin: 0;
+    }
+
+    .ourethos {
+        margin: 25px 0;
+    }
+
+    .projectrow.justify-content-between {
+        flex-wrap: wrap;
+    }
+
+    .projectbanner,
+    .enquireform {
+        width: 100%;
+    }
+
+    header:after {
+        width: 420px;
+    }
+
+    .mediastn.d-flex.justify-content-between {
+        flex-wrap: wrap;
+    }
+
+    .medleft {
+        width: 100%;
+    }
+
+    .medleft ul {
+        display: flex;
+        padding: 0;
+        background: transparent;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .medleft ul li {
+        border: none;
+        text-align: center;
+        padding-bottom: 0;
+        margin: 0 1%;
+        width: 32%;
+        background: #e6e7e8;
+    }
+
+    .medright {
+        width: 100%;
+        float: left;
+    }
+
+    ul.d-flex.justify-content-start {
+        justify-content: center !important;
+    }
+
+    .slidertitle span:nth-child(1):after {
+        width: 1px;
+    }
+
+    .enquireform {
+        padding: 0;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-next {
+        right: -50px;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-prev {
+        left: -50px;
+    }
+
+    .proenquire {
+        padding: 25px 0;
+        width: 290px;
+    }
+
+    .highlightbtn ul li {
+        width: 40%;
+    }
+
+    .togmenu {
+        padding: 0 50px;
+    }
+
+    .inprojects .react-tabs__tab-list li {
+        line-height: 40px;
+        font-size: 14px;
+        margin: 0 5px;
+        width: 200px;
+        letter-spacing: 1px;
+    }
+
+    .haboutimg img {
+        width: 80%;
+        margin: 0px auto 20px;
+        display: inherit;
+    }
+}
+
+@media (max-width:700px) {
+    .form_thankyou_data {
+        padding: 30px 40px;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 30px;
+    }
+
+    .homeslider {
+        flex-wrap: wrap;
+    }
+
+    .accordion .accordion-item .title,
+    .ftr a,
+    .ftr p {
+        font-size: 11px;
+    }
+
+    .toplinks li:nth-child(4) {
+        font-size: 10px;
+        height: 30px;
+        width: 130px;
+    }
+
+    .homcolrt,
+    .projectchart,
+    .slick-dots {
+        width: 100%;
+    }
+
+    .homcolft {
+        width: 80%;
+        text-align: center;
+        justify-content: center;
+        padding: 0;
+        margin: 0 10%;
+    }
+
+    .pprojectbox {
+        width: 46%;
+    }
+
+    .slidertitle,
+    .webclick {
+        justify-content: center;
+    }
+
+    .homeslider {
+        flex-direction: column-reverse;
+    }
+
+    .count {
+        flex-wrap: wrap;
+    }
+
+    .App {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .App:last-child:before,
+    .App:nth-child(2):before {
+        opacity: 0;
+    }
+
+    .App:nth-child(1):before,
+    .App:nth-child(3):before {
+        left: 100%;
+        right: inherit;
+        transform: translateY(50%);
+        top: -50px;
+    }
+
+    .numbers {
+        padding-bottom: 0;
+    }
+
+
+    .categoryrow {
+        margin: 0;
+        width: 100%;
+    }
+
+
+    .hprojects:before {
+        width: 80px;
+        height: 80px;
+        top: 5%;
+    }
+
+    .copyrightrow.d-flex.justify-content-between {
+        flex-wrap: wrap;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .copyrightrow p {
+        width: 100%;
+        padding: 0 30px;
+    }
+
+    .footer {
+        padding: 25px 0;
+    }
+
+    .ftr {
+        width: 40%;
+    }
+
+    .ftrrow {
+        flex-wrap: wrap;
+    }
+
+    .form li {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+    .togmenu {
+        padding: 0;
+    }
+
+    .cross {
+        width: 75px;
+        height: 75px;
+        font-size: 24px;
+        left: auto;
+        top: 5%;
+        right: 5%;
+    }
+
+    .togmenu ul {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .togmenu ul li a:after {
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .header .col-md-6 {
+        width: auto;
+    }
+
+    .enquirecontainer ul {
+        width: 60%;
+        flex-wrap: wrap;
+        margin: 0 20%;
+    }
+
+    .enquirecontainer ul li {
+        width: 100%;
+    }
+
+    .enquirecontainer button.btnfill.button-2 {
+        width: auto;
+        margin-top: 20px;
+    }
+
+    .sitemap .accordion .accordion-item.active .panel {
+        max-height: 1000px;
+    }
+
+    .enquirecontainer h2 {
+        margin-bottom: 20px;
+        font-size: 17px;
+    }
+
+    .hemburgur {
+        display: flex;
+        justify-content: end;
+        padding: 0 10px 0 20px;
+    }
+
+    .col-md-6.a-center.d-flex.align-items-end.justify-content-end {
+        padding-right: 0;
+        margin-left: 10px;
+    }
+
+    .haboutcont h1 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .sitemaprow {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        margin: 30px 0;
+    }
+
+    ul.form {
+        width: 290px;
+        margin: 0px auto;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-next,
+    .gallery .slick-slider button.slick-arrow.slick-prev {
+        top: 50%;
+    }
+
+    .constructionrow .react-tabs ul.d-flex.justify-content-between {
+        width: 100%;
+        border: none;
+    }
+
+    .constructionrow .year {
+        position: static;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .constructionrow .react-tabs ul.d-flex.justify-content-between {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    ul.d-flex.justify-content-between li {
+        float: left;
+        padding: 0 10px;
+    }
+
+    .constructionrow .lg-react-element a {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+
+    .toplinks li:first-child,
+    .toplinks li:nth-child(2),
+    .toplinks li:nth-child(3),
+    .aboutus::before {
+        display: none;
+    }
+
+    .aboutus::before {
+        left: 0;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        left: -35px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next {
+        right: -35px;
+    }
+
+    .difference ol li p {
+        font-size: 13px;
+        padding-left: 20px;
+    }
+
+
+    .aboutus,
+    .nriaccordian,
+    .inprojects {
+        margin: 25px 0;
+    }
+
+    .medright .react-tabs ul {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .medright .Gallerybox .lg-react-element a {
+        width: 32%;
+    }
+
+    .slick-slider button.slick-arrow.slick-prev {
+        top: inherit;
+        bottom: 0;
+        left: 30%;
+    }
+
+    .slick-slider button.slick-arrow.slick-next {
+        top: inherit;
+        right: 30%;
+        bottom: 0;
+    }
+
+    .slidertitle {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .slidephara ul li {
+        width: auto;
+    }
+
+    .slidephara ul {
+        justify-content: center;
+    }
+
+    .hprojects:after {
+        right: 0;
+    }
+
+    .ourethosimg,
+    .ourthoscont {
+        width: 100%;
+    }
+
+    .ourethosrow {
+        flex-wrap: wrap;
+    }
+
+    .ourthoscont {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .contact_us,
+    footer {
+        padding-bottom: 80px;
+    }
+
+    .galleryimg span {
+        font-size: 8px;
+        padding: 0 5px;
+    }
+
+    .breadcumtab ul li {
+        padding-right: 10px;
+        font-size: 9px;
+        letter-spacing: 0.3px;
+    }
+
+    .breadcumtab ul li a:after {
+        right: -8px;
+    }
+
+    .our-brands-cnt .slick-slider button.slick-arrow.slick-next {
+        right: -5%;
+        width: 40px;
+        height: 30px;
+        top: 25%;
+    }
+
+    .our-brands-cnt .slick-slider button.slick-arrow.slick-prev {
+        left: -5%;
+        width: 30px;
+        height: 30px;
+        top: 25%;
+    }
+}
+
+@media (max-width:600px) {
+    .form_thankyou_data {
+        padding: 40px 35px;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 30px;
+    }
+
+    .difference {
+        padding: 60px 0 30px;
+    }
+
+
+    .locationbanner,
+    .amenitiesrow {
+        background-position: top;
+        padding-top: 100px;
+        background-size: cover;
+    }
+
+    .amenitiesstn0 ul {
+        margin: 25px 0;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .header .row {
+        justify-content: space-between;
+    }
+
+    .constructionrow .year .years {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .constructionrow .react-tabs ul.d-flex.justify-content-between {
+        margin-bottom: 15px;
+    }
+
+    .col-md-6.a-center.d-flex.align-items-end.justify-content-end {
+        margin-left: 0;
+        padding-right: 10px;
+    }
+
+    .locationimg,
+    .locationcont {
+        width: 100%;
+    }
+
+    .locationrow {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .locationcont ul li:before {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .locationbanner .Gallerybox {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .locationrow ul li {
+        width: 100%;
+    }
+
+    .highlightbtn ul li {
+        margin-bottom: 20px;
+        width: 48%;
+        margin-left: 1%;
+        margin-right: 1%;
+        font-size: 12px;
+        letter-spacing: 0.5px;
+    }
+
+    .menuslide {
+        padding: 30px;
+    }
+
+    .numberbanner:before {
+        width: 250px;
+        height: 250px;
+    }
+
+    .numbers {
+        padding-top: 80px;
+    }
+
+    .numbers:before {
+        border-right: 610px solid #019280;
+        border-top: 50px solid transparent;
+    }
+
+    .categoryrow {
+        flex-wrap: wrap;
+    }
+
+    .categorybox {
+        width: 44%;
+        margin: 0 3% 6%;
+    }
+
+    .categorybox:nth-child(odd) {
+        top: 0;
+    }
+
+    .sitemapbox {
+        width: 50%;
+    }
+
+    .sitemaprow {
+        flex-wrap: wrap;
+    }
+
+    .whtwedo {
+        margin-bottom: 0px;
+        overflow: hidden;
+    }
+
+    .haboutcont {
+        margin-top: 25px;
+    }
+
+
+
+
+
+    .ethoscontrow:before,
+    .ethoscontrow:last-child ul li::before {
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    .journeycont {
+        margin-top: 10px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next,
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        top: 50%;
+    }
+
+    .difference ol li {
+        width: 40%;
+    }
+
+    .difference ol li span {
+        margin-right: 20px;
+        width: auto;
+    }
+
+    .journey::before {
+        width: 100px;
+        height: 100px;
+        background-size: cover;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next {
+        right: 0;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        left: 0;
+    }
+
+    .journey .slick-dots li {
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+
+    .medright .react-tabs ul {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .medright .react-tabs ul li {
+        margin-bottom: 15px;
+    }
+
+    .medleft ul {
+        margin-bottom: 25px;
+    }
+
+    .lg-react-element a {
+        width: 48%;
+    }
+
+    .medleft ul {
+        flex-wrap: wrap;
+    }
+
+    .medleft ul li {
+        width: 46%;
+        margin-bottom: 10px;
+    }
+
+    .eventsbox {
+        width: 100%;
+        margin: 0;
+    }
+
+    .categorycent {
+        bottom: 20px;
+    }
+
+    .jslider,
+    .numbers {
+        overflow: hidden;
+    }
+
+    .hprojects:after {
+        right: 0;
+    }
+
+    .whtwedo::before {
+        width: 50px;
+        height: 5px;
+        background-size: contain;
+    }
+}
+
+@media (max-width:480px) {
+    .form_thankyou_data {
+        padding: 30px 30px;
+    }
+
+    .clintellestn ul li {
+        width: 47%;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 28px;
+
+    }
+
+    .nriaccordian,
+    .inprojects {
+        margin: 25px 0;
+    }
+
+    .categoryrow,
+    .ourethosrow {
+        width: 80%;
+        margin: 0px 10%;
+    }
+
+    .amenitiesrow:after {
+        border-left: 520px solid #ffffff;
+        top: -50px;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-next {
+        right: -25px;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-prev {
+        left: -25px;
+    }
+
+    .locationcont {
+        margin-top: 25px;
+    }
+
+    .medright .Gallerybox .lg-react-element a {
+        width: 49%;
+    }
+
+    .container {
+        max-width: 96%;
+        width: 96%;
+    }
+
+    .pprojectbox p {
+        margin-top: 10px;
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .nricorner {
+        padding: 25px 0;
+    }
+
+    .nriaccordian .accordion .accordion-item .title {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .nricorner h3 {
+        font-size: 15px;
+    }
+
+    .banner,
+    .inprojects .react-tabs__tab-list {
+        margin-bottom: 25px;
+    }
+
+    .inprojects .react-tabs__tab-list li {
+        padding: 0;
+        text-align: center;
+        width: 160px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+
+    .pprojectbox {
+        width: 47%;
+    }
+
+    .projectbox h3 {
+        width: 100%;
+        padding: 5px;
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .haboutcont h1 {
+        margin-bottom: 15px;
+    }
+
+    .journey::before {
+        width: 100px;
+        height: 100px;
+        background-size: cover;
+    }
+
+
+    .journey .slick-dots li {
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+
+    .difference ol li {
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+
+    .differencesatyarow {
+        height: auto;
+        background-size: cover;
+        background-position: 20%;
+    }
+
+    .aboutus::before,
+    .aboutus:before,
+    .ourethos:before {
+        left: 0;
+        width: 40px;
+        height: 5px;
+        background-size: contain;
+    }
+
+    .difference ol {
+        justify-content: center;
+    }
+
+    .countnum {
+        font-size: 36px;
+    }
+
+    .aboutus {
+        margin-top: 25px;
+    }
+
+    .categorybox {
+        width: 100%;
+        margin: 0 0 15px 0;
+    }
+
+    .fixed .logo a {
+        width: 70px;
+    }
+
+    .slick-slider button.slick-arrow.slick-prev,
+    .slick-slider button.slick-arrow.slick-next {
+        width: 30px;
+        height: 30px;
+        background-size: cover;
+    }
+
+    header:after {
+        width: 250px;
+        background-size: contain;
+    }
+
+    .slidertitle span:nth-child(1):after {
+        height: 100px;
+    }
+
+    .categorybox img {
+        height: 400px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .categorycent {
+        padding: 35px;
+    }
+
+    .countnum {
+        font-size: 32px;
+    }
+
+    .labelcont {
+        margin-top: 10px;
+        font-size: 11px;
+    }
+
+    .pprojecthighlights ul li {
+        width: 100%;
+        border-right: none;
+        border-bottom: solid 1px #60889a;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .amenitiesstn0 ul li {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+
+    .locationbanner {
+        padding: 0;
+    }
+
+    .medright .react-tabs ul li {
+        margin-bottom: 8px;
+    }
+
+    .medright .Gallerybox .lg-react-element a {
+        width: 90%;
+    }
+
+    .medright .Gallerybox .lg-react-element a img {
+        height: 300px;
+    }
+
+    .col-md-6.a-center.d-flex.align-items-end.justify-content-end {
+        padding: 0;
+    }
+
+    .amenities {
+        overflow: hidden;
+    }
+
+    .journey .slick-dots li:last-child {
+        padding-right: 0;
+        margin-right: 0;
+    }
+
+    .journey::after {
+        left: 0;
+        width: 60px;
+        height: 5px;
+        background-size: contain;
+    }
+
+    .jslider:before,
+    .banner:before {
+        width: 50px;
+        height: 100px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .haboutus::after,
+    .overview::after,
+    .banner::after,
+    .ourethosrow:after {
+        background-size: contain;
+        width: 40px;
+        left: 0;
+    }
+
+    .projectbanner img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .bannerimg img {
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .slidertitle span {
+        line-height: 20px;
+    }
+
+    .slidertitle span em {
+        left: 20px;
+    }
+
+    .journeycont h3 {
+        flex-wrap: wrap;
+    }
+
+    .journeycont h3 span {
+        padding: 0;
+    }
+
+    .journeyrow.d-flex.justify-content-between {
+        width: 100%;
+        margin: 0;
+    }
+
+    .hprojects:before,
+    .hprojects:after,
+    .haboutus:before,
+    .projectchart:before,
+    .categoryrow:before,
+    .ourethosrow:after {
+        width: 50px;
+        height: 50px;
+        background-size: cover;
+        z-index: -1;
+    }
+
+    .haboutus a.btnfill.button-2 {
+        margin-top: 25px;
+    }
+
+    .highlightbtn ul li {
+        width: 70%;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+
+    .projectgallery {
+        margin: 25px 0;
+    }
+
+    .webclick {
+        margin-top: 15px;
+    }
+
+    .projectinfo ul li {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+    }
+
+    .projectinfo ul li:before {
+        width: 20px;
+    }
+
+    .projectinfo {
+        padding: 10px;
+    }
+
+    .ftr h2 {
+        margin-bottom: 5px;
+    }
+
+    .ftr {
+        margin-bottom: 15px;
+    }
+
+    .our_brand_logo {
+        margin: 0 20px;
+        padding: 10px;
+        scale: 0.95;
+    }
+}
+
+@media (max-width:420px) {
+    .form_thankyou_data {
+        padding: 30px 20px;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 25px;
+    }
+
+    .slidertitle {
+        font-size: 20px;
+    }
+
+    .form li {
+        margin: 5px 0;
+    }
+
+    .nriaccordian .accordion-item {
+        margin-bottom: 10px;
+    }
+
+    .pprojectbox p {
+        font-size: 11px;
+    }
+
+    .toplinks li:nth-child(4) {
+        width: 110px;
+    }
+
+    .homcolft,
+    .categoryrow {
+        width: 94%;
+        margin: 0 3%;
+    }
+
+    .slidertitle {
+        margin: 10px 0;
+    }
+
+    .slidecont p {
+        margin: 0;
+    }
+
+    .constructionrow .lg-react-element a {
+        width: 100%;
+    }
+
+    header:after {
+        width: 150px;
+    }
+
+    .ftr {
+        width: 60%;
+    }
+
+    .constructionrow .year .years {
+        margin-bottom: 10px;
+    }
+
+    .projectlogo img {
+        margin: 10px 0;
+    }
+
+    .toplinks li {
+        padding: 0;
+    }
+
+    .logo a {
+        width: 90px;
+    }
+
+    .enquirecontainer ul {
+        width: 80%;
+        margin: 0 10%;
+    }
+
+    header {
+        min-height: 50px;
+        padding: 15px 0;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-next {
+        right: -25px;
+    }
+
+    .gallery .slick-slider button.slick-arrow.slick-prev {
+        left: -25px;
+    }
+
+    .amenities {
+        overflow: hidden;
+    }
+
+    .menuslide {
+        padding: 10px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-next {
+        right: -10px;
+    }
+
+    .journeryslider .slick-slider button.slick-arrow.slick-prev {
+        left: -10px;
+    }
+
+    .pprojecthighlights ul li {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .medleft ul li a {
+        font-size: 12px;
+    }
+
+    .cross {
+        width: 50px;
+        height: 50px;
+    }
+
+    .journeryslider .slick-dots {
+        flex-wrap: wrap;
+    }
+
+    .journey .slick-dots li {
+        margin-bottom: 15px;
+    }
+
+    .togmenu ul li a {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    ul.d-flex.justify-content-start {
+        flex-wrap: wrap;
+    }
+
+    .years {
+        padding-bottom: 10px;
+        border-bottom: solid 1px #ededed;
+        margin-bottom: 20px;
+    }
+
+    .lg-react-element a {
+        width: 100%;
+    }
+
+    .ftr h2 {
+        border-width: 1px;
+    }
+
+    .sitemapbox {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .enquirecontainer ul {
+        width: 80%;
+        margin: 0 10%;
+    }
+}
+
+@media (max-width:390px) {
+    .form_thankyou_data {
+        padding: 30px 20px;
+    }
+
+    .form_thankyou_data h5 {
+        font-size: 24px;
+
+    }
+
+    .pprojectbox {
+        width: 100%;
+    }
+
+    .amenitiesstn0 ul li span {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+
+    .logo a {
+        width: 70px;
+    }
+
+    .toplinks li:nth-child(4) {
+        font-size: 10px;
+        width: 100px;
+        line-height: 24px;
+        height: auto;
+    }
+
+    .hprojects {
+        margin: 25px 0;
+        overflow: hidden;
+    }
+
+    .header.fixed {
+        padding: 5px 0;
+    }
+
+    body {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .inprojects .react-tabs__tab-list li,
+    .subtitle h3 {
+        font-size: 10px;
+        line-height: 30px;
+        height: 30px;
+        width: 120px;
+    }
+
+    .ftr {
+        width: 70%;
+        margin-bottom: 35px;
+    }
+
+    .inprojects .react-tabs__tab-list {
+        margin: 10px 0 25px;
+    }
+
+    .subtitle,
+    .title {
+        margin-bottom: 15px;
+    }
+
+    .projectcont h1,
+    .amenitiesstn0 h3 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .highlightbtn ul li {
+        width: 80%;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+
+    .ourethos::before {
+        width: 100px;
+        height: 6px;
+        background-size: contain;
+        left: 0;
+    }
+
+    .highlightbtn {
+        margin-top: 15px;
+    }
+
+    ul.form {
+        width: 100%;
+    }
+
+    .journeycont h3 span {
+        width: 100%;
+        float: left;
+    }
+
+    .journeycont h3 {
+        flex-wrap: wrap;
+    }
+
+    .App {
+        margin-bottom: 20px;
+        width: 100%;
+        padding-bottom: 20px;
+        border-bottom: solid 1px rgb(255 255 255 / 30%);
+    }
+
+    .App:nth-child(1):before,
+    .App:nth-child(3):before {
+        opacity: 0;
+    }
+
+    .App:last-child {
+        border: none;
+    }
+
+    .journeyrow.d-flex.justify-content-between {
+        width: 100%;
+        margin: 0;
+    }
+
+    .projectbox {
+        width: 100%;
+    }
+
+    .projectrow .projectbox:last-child {
+        width: 100%;
+        margin: 15px 0;
+    }
+
+    .delivering h1 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+}

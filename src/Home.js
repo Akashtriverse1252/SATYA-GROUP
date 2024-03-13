@@ -362,7 +362,7 @@ export const Home = () => {
                         >
                           <Link to={pagedata.projects.ongoing[3].slug}>
                             <img src={pagedata.projects.ongoing[3].image} />
-                            <span className="img_type">artistic Image</span>
+                            <span className="img_type">Actual Image</span>
 
                             <h3>
                               {pagedata.projects.ongoing[3].title},{" "}
